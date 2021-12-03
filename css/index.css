@@ -144,3 +144,25 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/*nav bar*/
+
+header{
+    display:flex;
+    justify-content: space-around;
+    margin: 1rem 0 2rem 1rem;
+}
+nav{
+    margin-top: 3%;
+}
+a{
+    text-decoration: none;
+    color:black;
+    margin: 0 2.3rem;
+}
+.headerImg{
+    padding: 0 1rem 1rem 1rem;
+}
+
+/*body*/
+
